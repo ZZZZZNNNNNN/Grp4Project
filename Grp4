@@ -71,8 +71,9 @@ void enter()
 
 
 				cout<<"\nEnter the Data of student "<<i+1<<endl;
-				cout<<"Enter s to start\n";
+				cout<<"Enter to start\n";
 				cin.ignore(INT_MAX, '\n');
+				cout<<"\n";
 
 
 				cout<<"Enter name: ";
@@ -123,6 +124,7 @@ void enter()
 				cout<<"\nEnter the Data of student: "<<i+1<<endl;
 				cout<<"Enter to start\n";
 				cin.ignore(INT_MAX, '\n');
+				cout<<"\n";
 
 				cout<<"Enter name: ";
 
